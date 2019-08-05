@@ -10,20 +10,17 @@ Currently working with no authentication:
 * /regions
 * /entry/entry-id
 
-Working but **requires authentication**
-
+Working but **requires authentication**:
 * /my-team/logged-in-team-id
 * /leagues-classic/league-id
 * /leagues-classic/league-id/standings
 * /leagues-h2h/league-id/
 * /leagues-h2h/league-id/standings
 
-Exists but nothing returned
-
+Exists but no data returned:
 * /transfers (may not exist in pre-season)
 
-* No longer in use
-
+Previously accessible but no longer in use:
 * /events
 * /leagues-entered/logged-in-team-id
 * /teams 
